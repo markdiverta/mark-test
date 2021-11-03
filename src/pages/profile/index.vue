@@ -179,7 +179,7 @@ export default {
                 detail.phone = detailsObj.tel;
                 detail.email = detailsObj.email;
                 if (detailsObj.profileimage.url !== undefined) {
-                    detail.url = "https://dev-nuxt-auth-mng.r-cms.jp" + detailsObj.profileimage.url;
+                    detail.url = "https://mark-test.g.kuroco-mng.app" + detailsObj.profileimage.url;
                 } else {
                     detail.url = self.placeholder;
                 }
