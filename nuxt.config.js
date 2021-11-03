@@ -38,7 +38,7 @@ export default {
             { rel: 'icon', type: 'image/svg+xml', href: '/icon_kuroco.svg' },
             { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
             { rel: 'preconnect', href: 'https://cdn.jsdelivr.net' },
-            { rel: 'preconnect', href: 'https://dev-mark-test.g.kuroco-mng.app' }
+            { rel: 'preconnect', href: 'https://mark-test.g.kuroco-mng.app' }
         ]
     },
     /*
